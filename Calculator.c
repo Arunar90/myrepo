@@ -7,6 +7,8 @@ main()
   int B;
   int C;
   C=A+B;
+  //Subract
+  C=A-B;
   //Multiply
   C=A*B;
 }
