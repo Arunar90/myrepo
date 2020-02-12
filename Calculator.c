@@ -7,4 +7,6 @@ main()
   int B;
   int C;
   C=A+B;
+  //Multiply
+  C=A*B;
 }
